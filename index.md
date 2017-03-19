@@ -4,9 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
 
-[Link to recursive-drawing](html5/recursive-drawing)
+[HTML5 - Recursive Drawing](html5/recursive-drawing)
 
 There should be whitespace between paragraphs.
 
@@ -101,6 +100,8 @@ end
 ### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
+
+![](https://tmalmberg.github.io/html5/recursive-drawing/index.html)
 
 
 ### Definition lists can be used with HTML syntax.
