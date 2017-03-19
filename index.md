@@ -100,7 +100,6 @@ end
 ### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
-(https://tmalmberg.github.com/html5/recursive-drawing/index.html)
 
 
 
