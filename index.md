@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
-[HTML5 - Recursive Drawing](html5/recursive-drawing)
+[HTML5 - Recursive Drawing](https://github.com/tmalmberg/html5/blob/master/recursive-drawing/index.html)
 
 There should be whitespace between paragraphs.
 
