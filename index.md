@@ -101,8 +101,6 @@ end
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
-![](https://tmalmberg.github.io/html5/recursive-drawing/index.html)
-
 
 ### Definition lists can be used with HTML syntax.
 
